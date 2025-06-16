@@ -1,0 +1,521 @@
+timestamp,origin,destination,summary_route,travel_time_seconds,travel_time_minutes,distance_meters,distance_km
+2025-05-26T17:02:54.458280,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3165,52.75,20328,20.33
+2025-05-26T17:02:54.970786,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1187,19.78,5825,5.83
+2025-05-26T17:02:55.378417,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,745,12.42,3127,3.13
+2025-05-26T17:02:55.853034,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,775,12.92,3160,3.16
+2025-05-26T17:02:56.649840,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3952,65.87,19921,19.92
+2025-05-26T17:02:57.179134,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,863,14.38,6545,6.54
+2025-05-26T17:02:57.711486,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2605,43.42,16860,16.86
+2025-05-26T17:02:58.256180,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,284,4.73,1167,1.17
+2025-05-26T17:02:58.796489,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2055,34.25,11988,11.99
+2025-05-26T17:02:59.594245,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1660,27.67,14557,14.56
+2025-05-26T17:08:00.595842,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3120,52.0,20413,20.41
+2025-05-26T17:08:00.772914,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1158,19.3,5825,5.83
+2025-05-26T17:08:00.973180,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,770,12.83,3127,3.13
+2025-05-26T17:08:01.161804,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,807,13.45,3160,3.16
+2025-05-26T17:08:01.884179,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4085,68.08,21229,21.23
+2025-05-26T17:08:02.093695,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,882,14.7,6545,6.54
+2025-05-26T17:08:02.370862,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2683,44.72,16860,16.86
+2025-05-26T17:08:02.535953,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,297,4.95,1167,1.17
+2025-05-26T17:08:02.801856,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2044,34.07,12280,12.28
+2025-05-26T17:08:03.474173,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1675,27.92,14557,14.56
+2025-05-26T17:13:04.675823,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3182,53.03,20413,20.41
+2025-05-26T17:13:04.880383,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1298,21.63,5825,5.83
+2025-05-26T17:13:05.124769,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,759,12.65,3127,3.13
+2025-05-26T17:13:05.353843,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,864,14.4,3160,3.16
+2025-05-26T17:13:06.201793,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4191,69.85,21229,21.23
+2025-05-26T17:13:06.427070,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,888,14.8,6545,6.54
+2025-05-26T17:13:06.846430,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2640,44.0,16860,16.86
+2025-05-26T17:13:07.063589,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,281,4.68,1167,1.17
+2025-05-26T17:13:07.451137,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2067,34.45,12280,12.28
+2025-05-26T17:13:08.257047,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1679,27.98,14557,14.56
+2025-05-26T17:23:31.454434,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3243,54.05,20328,20.33
+2025-05-26T17:23:31.808876,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1482,24.7,5825,5.83
+2025-05-26T17:23:32.138737,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,740,12.33,3127,3.13
+2025-05-26T17:23:32.774517,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,850,14.17,3160,3.16
+2025-05-26T17:23:33.391196,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",Kukatpally Housing Board - Hitech City Rd,4670,77.83,20997,21.0
+2025-05-26T17:23:33.792393,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,902,15.03,6545,6.54
+2025-05-26T17:23:34.365622,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2676,44.6,16860,16.86
+2025-05-26T17:23:34.689932,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,294,4.9,1167,1.17
+2025-05-26T17:23:35.122788,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2044,34.07,12280,12.28
+2025-05-26T17:23:35.949228,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1685,28.08,14557,14.56
+2025-05-26T17:28:37.200243,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3243,54.05,20328,20.33
+2025-05-26T17:28:37.706851,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1375,22.92,5825,5.83
+2025-05-26T17:28:38.355304,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,732,12.2,3127,3.13
+2025-05-26T17:28:38.671998,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,1032,17.2,3160,3.16
+2025-05-26T17:28:39.485892,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4743,79.05,19268,19.27
+2025-05-26T17:28:39.817190,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,906,15.1,6545,6.54
+2025-05-26T17:28:40.137314,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2646,44.1,16860,16.86
+2025-05-26T17:28:40.374068,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,313,5.22,1167,1.17
+2025-05-26T17:28:40.801068,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2072,34.53,12280,12.28
+2025-05-26T17:28:41.308885,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1698,28.3,14557,14.56
+2025-05-26T17:33:43.585218,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3302,55.03,20328,20.33
+2025-05-26T17:33:43.998902,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1392,23.2,5825,5.83
+2025-05-26T17:33:44.406258,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,738,12.3,3127,3.13
+2025-05-26T17:33:45.021394,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,987,16.45,3160,3.16
+2025-05-26T17:33:45.940923,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4599,76.65,19268,19.27
+2025-05-26T17:33:46.454982,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,882,14.7,6545,6.54
+2025-05-26T17:33:46.965961,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2684,44.73,16860,16.86
+2025-05-26T17:33:47.374723,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,299,4.98,1167,1.17
+2025-05-26T17:33:47.993407,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2091,34.85,12280,12.28
+2025-05-26T17:33:48.707984,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1730,28.83,14557,14.56
+2025-05-26T17:38:50.881093,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3359,55.98,20328,20.33
+2025-05-26T17:38:51.492459,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1495,24.92,5825,5.83
+2025-05-26T17:38:52.045604,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,774,12.9,3134,3.13
+2025-05-26T17:38:52.681302,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,927,15.45,3160,3.16
+2025-05-26T17:38:53.357868,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4798,79.97,19268,19.27
+2025-05-26T17:38:53.870021,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,908,15.13,6545,6.54
+2025-05-26T17:38:54.909179,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2697,44.95,16860,16.86
+2025-05-26T17:38:55.608068,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,294,4.9,1167,1.17
+2025-05-26T17:38:56.265281,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2151,35.85,12280,12.28
+2025-05-26T17:38:57.246173,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1741,29.02,14557,14.56
+2025-05-26T17:43:58.518966,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3365,56.08,20328,20.33
+2025-05-26T17:43:58.926558,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1443,24.05,5825,5.83
+2025-05-26T17:43:59.239124,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,770,12.83,3134,3.13
+2025-05-26T17:43:59.643228,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,926,15.43,3160,3.16
+2025-05-26T17:44:00.257511,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4602,76.7,19268,19.27
+2025-05-26T17:44:00.565872,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,893,14.88,6545,6.54
+2025-05-26T17:44:01.076887,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2723,45.38,16860,16.86
+2025-05-26T17:44:01.438297,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,283,4.72,1167,1.17
+2025-05-26T17:44:01.955511,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2137,35.62,11988,11.99
+2025-05-26T17:44:02.513579,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1779,29.65,14557,14.56
+2025-05-26T17:49:04.293960,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3378,56.3,20328,20.33
+2025-05-26T17:49:04.599718,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1388,23.13,5825,5.83
+2025-05-26T17:49:05.010378,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,765,12.75,3134,3.13
+2025-05-26T17:49:05.294471,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,1015,16.92,3160,3.16
+2025-05-26T17:49:05.931268,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4737,78.95,19268,19.27
+2025-05-26T17:49:06.191138,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,883,14.72,6545,6.54
+2025-05-26T17:49:06.756957,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2728,45.47,16860,16.86
+2025-05-26T17:49:07.057162,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,308,5.13,1167,1.17
+2025-05-26T17:49:07.437480,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2172,36.2,11988,11.99
+2025-05-26T17:49:08.392228,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1839,30.65,14557,14.56
+2025-05-26T17:54:09.734042,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3265,54.42,20328,20.33
+2025-05-26T17:54:10.271633,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1257,20.95,5825,5.83
+2025-05-26T17:54:10.753229,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,804,13.4,3134,3.13
+2025-05-26T17:54:11.500911,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,1152,19.2,3160,3.16
+2025-05-26T17:54:12.226922,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4550,75.83,19268,19.27
+2025-05-26T17:54:12.730110,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,908,15.13,6545,6.54
+2025-05-26T17:54:13.345306,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2730,45.5,16860,16.86
+2025-05-26T17:54:13.760366,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,294,4.9,1167,1.17
+2025-05-26T17:54:14.492809,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2193,36.55,11988,11.99
+2025-05-26T17:54:15.604951,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1832,30.53,14557,14.56
+2025-05-26T17:59:22.196886,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3215,53.58,20328,20.33
+2025-05-26T17:59:23.682204,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1295,21.58,5825,5.83
+2025-05-26T17:59:25.093002,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,828,13.8,3134,3.13
+2025-05-26T17:59:26.474007,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,925,15.42,3160,3.16
+2025-05-26T17:59:28.038205,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4478,74.63,19268,19.27
+2025-05-26T17:59:29.042178,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,892,14.87,6545,6.54
+2025-05-26T17:59:40.793166,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2749,45.82,16860,16.86
+2025-05-26T17:59:41.278943,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,300,5.0,1167,1.17
+2025-05-26T17:59:42.083712,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2209,36.82,11988,11.99
+2025-05-26T17:59:43.006879,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1839,30.65,14557,14.56
+2025-05-26T18:04:43.889019,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3328,55.47,20328,20.33
+2025-05-26T18:04:44.105464,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1201,20.02,5825,5.83
+2025-05-26T18:04:44.334368,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,863,14.38,3127,3.13
+2025-05-26T18:04:44.555415,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,872,14.53,3160,3.16
+2025-05-26T18:04:45.041201,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4543,75.72,19268,19.27
+2025-05-26T18:04:45.260525,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,879,14.65,6545,6.54
+2025-05-26T18:04:45.522595,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2818,46.97,16860,16.86
+2025-05-26T18:04:45.740606,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,299,4.98,1167,1.17
+2025-05-26T18:04:45.998374,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2244,37.4,11988,11.99
+2025-05-26T18:04:46.474657,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1806,30.1,14557,14.56
+2025-05-26T18:14:48.084873,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3321,55.35,20328,20.33
+2025-05-26T18:14:48.729245,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1350,22.5,6737,6.74
+2025-05-26T18:14:49.576798,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,874,14.57,3134,3.13
+2025-05-26T18:14:50.482002,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,977,16.28,3160,3.16
+2025-05-26T18:14:51.318214,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4430,73.83,19268,19.27
+2025-05-26T18:14:51.751962,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,891,14.85,6545,6.54
+2025-05-26T18:14:52.647918,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2813,46.88,16860,16.86
+2025-05-26T18:14:53.129653,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,307,5.12,1167,1.17
+2025-05-26T18:14:53.758711,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2223,37.05,11988,11.99
+2025-05-26T18:14:54.689688,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1815,30.25,14557,14.56
+2025-05-26T18:19:55.304781,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3417,56.95,20328,20.33
+2025-05-26T18:19:55.524986,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1459,24.32,5825,5.83
+2025-05-26T18:19:55.739166,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,865,14.42,3134,3.13
+2025-05-26T18:19:55.935577,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,995,16.58,3160,3.16
+2025-05-26T18:19:56.418882,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4314,71.9,19268,19.27
+2025-05-26T18:19:56.649593,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,863,14.38,6545,6.54
+2025-05-26T18:19:56.977448,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2824,47.07,16860,16.86
+2025-05-26T18:19:57.186827,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,304,5.07,1167,1.17
+2025-05-26T18:19:57.483948,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2225,37.08,11988,11.99
+2025-05-26T18:19:58.507929,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1835,30.58,14557,14.56
+2025-05-26T18:24:59.876332,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3432,57.2,20081,20.08
+2025-05-26T18:25:00.150603,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1379,22.98,5825,5.83
+2025-05-26T18:25:00.495840,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,873,14.55,3134,3.13
+2025-05-26T18:25:00.803424,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,1086,18.1,3160,3.16
+2025-05-26T18:25:01.537052,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4343,72.38,19268,19.27
+2025-05-26T18:25:01.929552,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,859,14.32,6545,6.54
+2025-05-26T18:25:02.443094,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2879,47.98,16860,16.86
+2025-05-26T18:25:02.850669,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,297,4.95,1167,1.17
+2025-05-26T18:25:03.165093,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2322,38.7,11988,11.99
+2025-05-26T18:25:03.879713,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1837,30.62,14732,14.73
+2025-05-26T18:30:05.028218,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3395,56.58,20081,20.08
+2025-05-26T18:30:05.452626,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1574,26.23,5825,5.83
+2025-05-26T18:30:05.861958,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,865,14.42,3134,3.13
+2025-05-26T18:30:06.311272,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,1083,18.05,3160,3.16
+2025-05-26T18:30:06.933112,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4350,72.5,19268,19.27
+2025-05-26T18:30:07.252547,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,861,14.35,6545,6.54
+2025-05-26T18:30:07.627713,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2871,47.85,16860,16.86
+2025-05-26T18:30:07.975958,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,314,5.23,1167,1.17
+2025-05-26T18:30:08.365420,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2236,37.27,11988,11.99
+2025-05-26T18:30:08.946517,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1806,30.1,14732,14.73
+2025-05-26T18:35:10.634650,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3378,56.3,20129,20.13
+2025-05-26T18:35:11.024494,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1816,30.27,5825,5.83
+2025-05-26T18:35:11.332159,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,851,14.18,3134,3.13
+2025-05-26T18:35:11.566225,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,846,14.1,3160,3.16
+2025-05-26T18:35:12.457586,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4361,72.68,19268,19.27
+2025-05-26T18:35:12.867379,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,866,14.43,6545,6.54
+2025-05-26T18:35:13.483552,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2860,47.67,16860,16.86
+2025-05-26T18:35:13.886942,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,338,5.63,1167,1.17
+2025-05-26T18:35:14.241296,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2209,36.82,11988,11.99
+2025-05-26T18:35:14.802942,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1805,30.08,14557,14.56
+2025-05-26T18:40:15.441041,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",NH 44,3443,57.38,20213,20.21
+2025-05-26T18:40:15.645876,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1843,30.72,5825,5.83
+2025-05-26T18:40:15.847088,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,787,13.12,3127,3.13
+2025-05-26T18:40:16.082504,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,814,13.57,3160,3.16
+2025-05-26T18:40:16.742648,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4345,72.42,19268,19.27
+2025-05-26T18:40:17.164325,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,870,14.5,6545,6.54
+2025-05-26T18:40:19.176053,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2896,48.27,16860,16.86
+2025-05-26T18:40:19.460488,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,414,6.9,1167,1.17
+2025-05-26T18:40:19.743138,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2239,37.32,11988,11.99
+2025-05-26T18:40:20.231007,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1802,30.03,14732,14.73
+2025-05-26T18:45:21.455946,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3322,55.37,20081,20.08
+2025-05-26T18:45:22.166859,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1983,33.05,5825,5.83
+2025-05-26T18:45:22.677918,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,806,13.43,3128,3.13
+2025-05-26T18:45:23.474110,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,780,13.0,3160,3.16
+2025-05-26T18:45:24.340768,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4255,70.92,19591,19.59
+2025-05-26T18:45:24.828188,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,902,15.03,6545,6.54
+2025-05-26T18:45:25.282236,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2881,48.02,16860,16.86
+2025-05-26T18:45:25.748903,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,478,7.97,1167,1.17
+2025-05-26T18:45:26.363316,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2194,36.57,11988,11.99
+2025-05-26T18:45:27.081017,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1814,30.23,14732,14.73
+2025-05-26T18:50:28.351819,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3347,55.78,20081,20.08
+2025-05-26T18:50:28.761544,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,2017,33.62,5825,5.83
+2025-05-26T18:50:29.273745,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,797,13.28,3127,3.13
+2025-05-26T18:50:29.585186,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,723,12.05,3160,3.16
+2025-05-26T18:50:30.401148,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4254,70.9,19591,19.59
+2025-05-26T18:50:30.809645,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,876,14.6,6545,6.54
+2025-05-26T18:50:31.269227,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2827,47.12,16860,16.86
+2025-05-26T18:50:31.525808,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,494,8.23,1167,1.17
+2025-05-26T18:50:31.910552,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2193,36.55,11988,11.99
+2025-05-26T18:50:32.552565,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1828,30.47,14732,14.73
+2025-05-26T18:55:33.660006,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3301,55.02,20081,20.08
+2025-05-26T18:55:34.029804,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1839,30.65,5825,5.83
+2025-05-26T18:55:34.437952,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,802,13.37,3127,3.13
+2025-05-26T18:55:34.742499,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,686,11.43,3160,3.16
+2025-05-26T18:55:35.263878,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4130,68.83,19591,19.59
+2025-05-26T18:55:35.664692,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,890,14.83,6545,6.54
+2025-05-26T18:55:36.073369,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2809,46.82,16860,16.86
+2025-05-26T18:55:36.483610,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,332,5.53,1167,1.17
+2025-05-26T18:55:36.995303,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2162,36.03,11988,11.99
+2025-05-26T18:55:37.610857,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1857,30.95,14732,14.73
+2025-05-26T19:00:38.904349,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3279,54.65,17501,17.5
+2025-05-26T19:00:39.392444,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1799,29.98,5825,5.83
+2025-05-26T19:00:39.806648,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,748,12.47,3134,3.13
+2025-05-26T19:00:40.417759,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,672,11.2,3160,3.16
+2025-05-26T19:00:41.133141,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,4054,67.57,19591,19.59
+2025-05-26T19:00:41.605860,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,898,14.97,6545,6.54
+2025-05-26T19:00:42.056512,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2883,48.05,16860,16.86
+2025-05-26T19:00:42.569990,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,328,5.47,1167,1.17
+2025-05-26T19:00:43.084921,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2203,36.72,11988,11.99
+2025-05-26T19:00:43.736069,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1846,30.77,14732,14.73
+2025-05-26T19:05:44.862636,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3262,54.37,17279,17.28
+2025-05-26T19:05:45.270305,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1852,30.87,5825,5.83
+2025-05-26T19:05:45.577075,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,741,12.35,3127,3.13
+2025-05-26T19:05:46.089664,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,637,10.62,3160,3.16
+2025-05-26T19:05:46.747305,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3951,65.85,19591,19.59
+2025-05-26T19:05:47.115276,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,902,15.03,6545,6.54
+2025-05-26T19:05:47.626179,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2826,47.1,16860,16.86
+2025-05-26T19:05:48.024712,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,299,4.98,1167,1.17
+2025-05-26T19:05:48.412906,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2177,36.28,11988,11.99
+2025-05-26T19:05:49.097981,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1865,31.08,14557,14.56
+2025-05-26T19:10:49.702375,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3298,54.97,17279,17.28
+2025-05-26T19:10:49.901193,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1333,22.22,5825,5.83
+2025-05-26T19:10:50.073589,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,783,13.05,3128,3.13
+2025-05-26T19:10:50.261316,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,652,10.87,3160,3.16
+2025-05-26T19:10:50.878290,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3939,65.65,19591,19.59
+2025-05-26T19:10:51.072925,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,908,15.13,6545,6.54
+2025-05-26T19:10:51.326459,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2771,46.18,16860,16.86
+2025-05-26T19:10:51.527386,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,317,5.28,1167,1.17
+2025-05-26T19:10:51.802428,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2150,35.83,11988,11.99
+2025-05-26T19:10:52.294775,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1898,31.63,14557,14.56
+2025-05-26T19:15:53.954898,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3293,54.88,17616,17.62
+2025-05-26T19:15:54.469336,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1529,25.48,5825,5.83
+2025-05-26T19:15:55.287713,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,764,12.73,3127,3.13
+2025-05-26T19:15:55.800367,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,620,10.33,3160,3.16
+2025-05-26T19:15:56.620093,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3983,66.38,19591,19.59
+2025-05-26T19:15:57.129461,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,900,15.0,6545,6.54
+2025-05-26T19:15:57.583959,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2756,45.93,16860,16.86
+2025-05-26T19:15:57.921272,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,291,4.85,1167,1.17
+2025-05-26T19:15:58.390571,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2156,35.93,11988,11.99
+2025-05-26T19:15:59.179279,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1917,31.95,14557,14.56
+2025-05-26T19:21:00.285965,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,3179,52.98,17613,17.61
+2025-05-26T19:21:00.645599,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1497,24.95,5825,5.83
+2025-05-26T19:21:01.064970,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,805,13.42,3127,3.13
+2025-05-26T19:21:01.475736,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,666,11.1,3160,3.16
+2025-05-26T19:21:02.313340,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3921,65.35,19591,19.59
+2025-05-26T19:21:02.672201,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,884,14.73,6545,6.54
+2025-05-26T19:21:03.109570,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2799,46.65,16860,16.86
+2025-05-26T19:21:03.621820,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,277,4.62,1167,1.17
+2025-05-26T19:21:03.942243,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2155,35.92,11988,11.99
+2025-05-26T19:21:04.647969,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1855,30.92,14732,14.73
+2025-05-26T19:26:05.346233,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3181,53.02,18086,18.09
+2025-05-26T19:26:05.628513,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1595,26.58,5825,5.83
+2025-05-26T19:26:05.839459,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,771,12.85,3127,3.13
+2025-05-26T19:26:06.042591,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,664,11.07,3160,3.16
+2025-05-26T19:26:06.596910,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3930,65.5,20576,20.58
+2025-05-26T19:26:06.792448,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,914,15.23,6545,6.54
+2025-05-26T19:26:07.106223,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2748,45.8,16860,16.86
+2025-05-26T19:26:07.294352,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,287,4.78,1167,1.17
+2025-05-26T19:26:07.590252,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2190,36.5,12280,12.28
+2025-05-26T19:26:08.055168,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1813,30.22,14732,14.73
+2025-05-26T19:31:08.782915,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3153,52.55,17616,17.62
+2025-05-26T19:31:09.059306,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1570,26.17,5825,5.83
+2025-05-26T19:31:09.368592,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,791,13.18,3127,3.13
+2025-05-26T19:31:09.947910,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,597,9.95,3160,3.16
+2025-05-26T19:31:10.587945,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3893,64.88,19591,19.59
+2025-05-26T19:31:10.892797,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,892,14.87,6545,6.54
+2025-05-26T19:31:11.550431,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2689,44.82,16860,16.86
+2025-05-26T19:31:11.878972,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,294,4.9,1167,1.17
+2025-05-26T19:31:12.308303,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2101,35.02,12280,12.28
+2025-05-26T19:31:13.149829,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",Cheeriyal Main Rd/Road No. 10,1832,30.53,14732,14.73
+2025-05-26T19:36:14.496867,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3093,51.55,17501,17.5
+2025-05-26T19:36:14.809917,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1366,22.77,5825,5.83
+2025-05-26T19:36:15.317618,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,779,12.98,3128,3.13
+2025-05-26T19:36:15.668177,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,645,10.75,3160,3.16
+2025-05-26T19:36:16.836848,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3746,62.43,19626,19.63
+2025-05-26T19:36:17.064059,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,897,14.95,6545,6.54
+2025-05-26T19:36:17.455350,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2647,44.12,16860,16.86
+2025-05-26T19:36:17.754236,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,295,4.92,1167,1.17
+2025-05-26T19:36:18.055858,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2062,34.37,12280,12.28
+2025-05-26T19:36:18.593820,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1830,30.5,14557,14.56
+2025-05-26T19:41:19.705896,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,3117,51.95,17501,17.5
+2025-05-26T19:41:19.978903,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1344,22.4,5825,5.83
+2025-05-26T19:41:20.255793,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,833,13.88,3134,3.13
+2025-05-26T19:41:20.508195,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,625,10.42,3160,3.16
+2025-05-26T19:41:21.041324,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3777,62.95,19591,19.59
+2025-05-26T19:41:21.303736,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,865,14.42,6545,6.54
+2025-05-26T19:41:21.829614,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2580,43.0,16860,16.86
+2025-05-26T19:41:22.366110,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,286,4.77,1167,1.17
+2025-05-26T19:41:22.884717,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2055,34.25,12280,12.28
+2025-05-26T19:41:23.445309,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1819,30.32,14557,14.56
+2025-05-26T19:46:25.244977,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,3024,50.4,17613,17.61
+2025-05-26T19:46:25.776054,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1237,20.62,5825,5.83
+2025-05-26T19:46:26.309080,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,822,13.7,3127,3.13
+2025-05-26T19:46:26.840847,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,649,10.82,3160,3.16
+2025-05-26T19:46:27.801350,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3723,62.05,19591,19.59
+2025-05-26T19:46:28.139097,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,897,14.95,6545,6.54
+2025-05-26T19:46:28.539654,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2619,43.65,16860,16.86
+2025-05-26T19:46:28.857713,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,288,4.8,1167,1.17
+2025-05-26T19:46:29.245137,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2085,34.75,12280,12.28
+2025-05-26T19:46:29.826018,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1827,30.45,14557,14.56
+2025-05-26T19:51:30.492429,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,3008,50.13,20129,20.13
+2025-05-26T19:51:30.888736,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1063,17.72,5825,5.83
+2025-05-26T19:51:31.107480,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,795,13.25,3127,3.13
+2025-05-26T19:51:31.326611,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,670,11.17,3160,3.16
+2025-05-26T19:51:32.028908,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3562,59.37,19844,19.84
+2025-05-26T19:51:32.266826,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,903,15.05,6545,6.54
+2025-05-26T19:51:32.728255,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2601,43.35,16860,16.86
+2025-05-26T19:51:33.134965,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,290,4.83,1167,1.17
+2025-05-26T19:51:33.537719,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2046,34.1,12280,12.28
+2025-05-26T19:51:34.147074,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1843,30.72,14557,14.56
+2025-05-26T19:56:36.758616,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,2952,49.2,20129,20.13
+2025-05-26T19:56:37.161812,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1171,19.52,5825,5.83
+2025-05-26T19:56:37.562587,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,801,13.35,3128,3.13
+2025-05-26T19:56:38.015124,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,573,9.55,3160,3.16
+2025-05-26T19:56:38.738813,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3556,59.27,19591,19.59
+2025-05-26T19:56:39.014019,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,879,14.65,6545,6.54
+2025-05-26T19:56:39.647083,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2601,43.35,16860,16.86
+2025-05-26T19:56:39.912761,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,298,4.97,1167,1.17
+2025-05-26T19:56:40.453135,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1990,33.17,12280,12.28
+2025-05-26T19:56:41.002540,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1830,30.5,14557,14.56
+2025-05-26T20:01:42.827644,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Balanagar Main Rd,2934,48.9,20129,20.13
+2025-05-26T20:01:43.336665,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1151,19.18,5825,5.83
+2025-05-26T20:01:43.731382,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,787,13.12,3134,3.13
+2025-05-26T20:01:44.130313,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,576,9.6,3160,3.16
+2025-05-26T20:01:44.695093,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3481,58.02,19591,19.59
+2025-05-26T20:01:45.699762,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,886,14.77,6545,6.54
+2025-05-26T20:01:46.117896,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2570,42.83,16860,16.86
+2025-05-26T20:01:46.504198,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,284,4.73,1167,1.17
+2025-05-26T20:01:46.936490,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,2030,33.83,12280,12.28
+2025-05-26T20:01:47.665673,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1806,30.1,14557,14.56
+2025-05-26T20:06:48.762753,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,2955,49.25,17501,17.5
+2025-05-26T20:06:49.290560,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1155,19.25,5825,5.83
+2025-05-26T20:06:49.551557,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,733,12.22,3127,3.13
+2025-05-26T20:06:49.815863,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,596,9.93,3160,3.16
+2025-05-26T20:06:50.352822,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3368,56.13,19456,19.46
+2025-05-26T20:06:51.672563,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,892,14.87,6545,6.54
+2025-05-26T20:06:51.999126,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2554,42.57,16860,16.86
+2025-05-26T20:06:52.275301,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,268,4.47,1167,1.17
+2025-05-26T20:06:52.520622,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1936,32.27,12280,12.28
+2025-05-26T20:06:53.052108,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1797,29.95,14557,14.56
+2025-05-26T20:12:01.205484,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,2919,48.65,17501,17.5
+2025-05-26T20:12:01.435614,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1070,17.83,5825,5.83
+2025-05-26T20:12:01.662812,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,749,12.48,3134,3.13
+2025-05-26T20:12:02.037626,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,544,9.07,3160,3.16
+2025-05-26T20:12:02.670496,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3241,54.02,19464,19.46
+2025-05-26T20:12:02.966684,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,856,14.27,6545,6.54
+2025-05-26T20:12:03.408490,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2450,40.83,16860,16.86
+2025-05-26T20:12:03.691572,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,261,4.35,1167,1.17
+2025-05-26T20:12:04.103079,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1909,31.82,12280,12.28
+2025-05-26T20:12:04.715267,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1802,30.03,14557,14.56
+2025-05-26T20:17:07.347521,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Kaifi Azmi Road,2823,47.05,17799,17.8
+2025-05-26T20:17:07.702380,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1014,16.9,5825,5.83
+2025-05-26T20:17:08.124257,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,763,12.72,3165,3.17
+2025-05-26T20:17:08.601990,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,561,9.35,3160,3.16
+2025-05-26T20:17:09.405944,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3099,51.65,19493,19.49
+2025-05-26T20:17:09.939593,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,840,14.0,6545,6.54
+2025-05-26T20:17:10.475387,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2512,41.87,16860,16.86
+2025-05-26T20:17:11.002564,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,269,4.48,1167,1.17
+2025-05-26T20:17:11.535698,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1901,31.68,12280,12.28
+2025-05-26T20:17:12.327930,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1778,29.63,14557,14.56
+2025-05-26T20:22:13.976454,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Kaifi Azmi Road,2762,46.03,17799,17.8
+2025-05-26T20:22:14.772087,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,900,15.0,5825,5.83
+2025-05-26T20:22:15.670759,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,749,12.48,3134,3.13
+2025-05-26T20:22:16.114227,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,546,9.1,3160,3.16
+2025-05-26T20:22:17.166630,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3039,50.65,19268,19.27
+2025-05-26T20:22:17.433097,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,825,13.75,6545,6.54
+2025-05-26T20:22:17.766891,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2485,41.42,16860,16.86
+2025-05-26T20:22:18.138469,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,261,4.35,1167,1.17
+2025-05-26T20:22:18.604788,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1881,31.35,12280,12.28
+2025-05-26T20:22:19.427140,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1779,29.65,14557,14.56
+2025-05-26T20:27:20.255525,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Kaifi Azmi Road,2580,43.0,17914,17.91
+2025-05-26T20:27:20.483797,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,1033,17.22,5825,5.83
+2025-05-26T20:27:20.729733,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,735,12.25,3127,3.13
+2025-05-26T20:27:20.975622,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,575,9.58,3160,3.16
+2025-05-26T20:27:21.785598,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,3009,50.15,19456,19.46
+2025-05-26T20:27:22.325520,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,838,13.97,6545,6.54
+2025-05-26T20:27:22.854274,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2449,40.82,16860,16.86
+2025-05-26T20:27:23.141732,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,273,4.55,1167,1.17
+2025-05-26T20:27:23.648445,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1863,31.05,12280,12.28
+2025-05-26T20:27:24.185061,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1735,28.92,14557,14.56
+2025-05-26T20:32:26.029920,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2534,42.23,17911,17.91
+2025-05-26T20:32:26.297107,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,974,16.23,5825,5.83
+2025-05-26T20:32:26.820326,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,731,12.18,3127,3.13
+2025-05-26T20:32:27.348449,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,531,8.85,3160,3.16
+2025-05-26T20:32:27.882431,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2970,49.5,19456,19.46
+2025-05-26T20:32:28.364723,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,828,13.8,6545,6.54
+2025-05-26T20:32:29.002658,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2424,40.4,16860,16.86
+2025-05-26T20:32:29.440239,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,261,4.35,1167,1.17
+2025-05-26T20:32:29.839460,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1871,31.18,12280,12.28
+2025-05-26T20:32:30.755591,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1722,28.7,14557,14.56
+2025-05-26T20:37:35.179657,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,2515,41.92,17616,17.62
+2025-05-26T20:37:35.445154,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,874,14.57,5825,5.83
+2025-05-26T20:37:35.717848,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,726,12.1,3134,3.13
+2025-05-26T20:37:35.993531,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,535,8.92,3160,3.16
+2025-05-26T20:37:36.571640,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2955,49.25,19496,19.5
+2025-05-26T20:37:36.842018,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,840,14.0,6545,6.54
+2025-05-26T20:37:37.115687,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2466,41.1,16860,16.86
+2025-05-26T20:37:37.401920,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,257,4.28,1167,1.17
+2025-05-26T20:37:37.675318,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1854,30.9,12280,12.28
+2025-05-26T20:37:38.455791,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1711,28.52,14557,14.56
+2025-05-26T20:42:41.377863,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2425,40.42,17613,17.61
+2025-05-26T20:42:41.593013,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,894,14.9,5825,5.83
+2025-05-26T20:42:41.838245,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,714,11.9,3134,3.13
+2025-05-26T20:42:42.042698,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,509,8.48,3160,3.16
+2025-05-26T20:42:42.627391,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2923,48.72,19496,19.5
+2025-05-26T20:42:42.899938,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,825,13.75,6545,6.54
+2025-05-26T20:42:43.309143,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2349,39.15,16860,16.86
+2025-05-26T20:42:43.527744,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,261,4.35,1167,1.17
+2025-05-26T20:42:44.121499,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1823,30.38,12280,12.28
+2025-05-26T20:42:44.729956,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1712,28.53,14557,14.56
+2025-05-26T20:47:45.518607,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Road No. 36,2387,39.78,17616,17.62
+2025-05-26T20:47:45.801042,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,886,14.77,5825,5.83
+2025-05-26T20:47:46.133467,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,722,12.03,3134,3.13
+2025-05-26T20:47:46.482794,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,517,8.62,3160,3.16
+2025-05-26T20:47:47.099205,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2896,48.27,19631,19.63
+2025-05-26T20:47:47.396611,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,822,13.7,6545,6.54
+2025-05-26T20:47:47.757003,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2316,38.6,16860,16.86
+2025-05-26T20:47:48.000118,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,245,4.08,1167,1.17
+2025-05-26T20:47:48.377109,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1799,29.98,12280,12.28
+2025-05-26T20:47:49.031750,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1687,28.12,14557,14.56
+2025-05-26T20:53:07.633425,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2313,38.55,17613,17.61
+2025-05-26T20:53:17.951303,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,932,15.53,5825,5.83
+2025-05-26T20:53:21.456554,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,765,12.75,3134,3.13
+2025-05-26T20:53:21.939348,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,500,8.33,3160,3.16
+2025-05-26T20:53:22.546035,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2835,47.25,19631,19.63
+2025-05-26T20:53:22.853649,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,819,13.65,6545,6.54
+2025-05-26T20:53:23.155760,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2354,39.23,16860,16.86
+2025-05-26T20:53:23.416523,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,242,4.03,1167,1.17
+2025-05-26T20:53:23.760351,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1781,29.68,12280,12.28
+2025-05-26T20:53:24.352474,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1676,27.93,14557,14.56
+2025-05-26T20:58:25.295066,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2265,37.75,17627,17.63
+2025-05-26T20:58:25.700767,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,862,14.37,5825,5.83
+2025-05-26T20:58:26.168769,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,725,12.08,3134,3.13
+2025-05-26T20:58:26.487521,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,490,8.17,3160,3.16
+2025-05-26T20:58:27.024856,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2913,48.55,19631,19.63
+2025-05-26T20:58:27.287003,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,822,13.7,6545,6.54
+2025-05-26T20:58:27.606065,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2325,38.75,16860,16.86
+2025-05-26T20:58:27.855779,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,253,4.22,1167,1.17
+2025-05-26T20:58:28.238130,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1744,29.07,12280,12.28
+2025-05-26T20:58:29.276452,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1665,27.75,14557,14.56
+2025-05-26T21:08:43.929094,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2161,36.02,17613,17.61
+2025-05-26T21:08:44.250018,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,772,12.87,5825,5.83
+2025-05-26T21:08:44.576462,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,719,11.98,3134,3.13
+2025-05-26T21:08:44.896881,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,463,7.72,3160,3.16
+2025-05-26T21:08:45.533675,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2822,47.03,19631,19.63
+2025-05-26T21:08:45.819056,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,846,14.1,6545,6.54
+2025-05-26T21:08:46.490899,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2341,39.02,16860,16.86
+2025-05-26T21:08:46.807255,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,242,4.03,1167,1.17
+2025-05-26T21:08:47.447724,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1739,28.98,12280,12.28
+2025-05-26T21:08:48.047501,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1667,27.78,14557,14.56
+2025-05-26T21:13:48.923245,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2110,35.17,17613,17.61
+2025-05-26T21:13:49.134628,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,757,12.62,5825,5.83
+2025-05-26T21:13:49.355406,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,721,12.02,3134,3.13
+2025-05-26T21:13:49.544510,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,473,7.88,3160,3.16
+2025-05-26T21:13:49.997644,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2837,47.28,19631,19.63
+2025-05-26T21:13:50.197709,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,976,16.27,6545,6.54
+2025-05-26T21:13:50.496590,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2335,38.92,16860,16.86
+2025-05-26T21:13:50.701765,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,236,3.93,1167,1.17
+2025-05-26T21:13:50.973574,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1729,28.82,12280,12.28
+2025-05-26T21:13:51.464890,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1624,27.07,14557,14.56
+2025-05-26T21:18:53.287434,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2152,35.87,17613,17.61
+2025-05-26T21:18:53.548024,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,730,12.17,5825,5.83
+2025-05-26T21:18:53.815140,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,709,11.82,3134,3.13
+2025-05-26T21:18:54.013300,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,452,7.53,3160,3.16
+2025-05-26T21:18:54.482790,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2875,47.92,19631,19.63
+2025-05-26T21:18:54.683834,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,948,15.8,6545,6.54
+2025-05-26T21:18:54.944427,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2325,38.75,16860,16.86
+2025-05-26T21:18:55.130728,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,235,3.92,1167,1.17
+2025-05-26T21:18:55.416168,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1699,28.32,12280,12.28
+2025-05-26T21:18:56.052032,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1609,26.82,14557,14.56
+2025-05-26T21:23:56.933255,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2120,35.33,17613,17.61
+2025-05-26T21:23:57.253654,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,731,12.18,5825,5.83
+2025-05-26T21:23:57.595703,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,691,11.52,3134,3.13
+2025-05-26T21:23:58.206463,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,472,7.87,3160,3.16
+2025-05-26T21:23:59.070448,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2882,48.03,19631,19.63
+2025-05-26T21:23:59.378979,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,865,14.42,6545,6.54
+2025-05-26T21:23:59.815788,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2405,40.08,16860,16.86
+2025-05-26T21:24:00.139844,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,233,3.88,1167,1.17
+2025-05-26T21:24:00.784947,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1705,28.42,12280,12.28
+2025-05-26T21:24:01.504719,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1601,26.68,14557,14.56
+2025-05-26T21:29:02.064842,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2093,34.88,17613,17.61
+2025-05-26T21:29:02.293958,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,717,11.95,5825,5.83
+2025-05-26T21:29:02.549828,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,665,11.08,3134,3.13
+2025-05-26T21:29:02.778180,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,453,7.55,3160,3.16
+2025-05-26T21:29:03.378047,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2822,47.03,19901,19.9
+2025-05-26T21:29:03.593942,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,848,14.13,6545,6.54
+2025-05-26T21:29:03.948708,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2478,41.3,16860,16.86
+2025-05-26T21:29:04.179227,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,236,3.93,1167,1.17
+2025-05-26T21:29:04.465686,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1696,28.27,12280,12.28
+2025-05-26T21:29:05.211733,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1572,26.2,14557,14.56
+2025-05-26T21:34:05.775706,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2095,34.92,17613,17.61
+2025-05-26T21:34:06.115110,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,700,11.67,5825,5.83
+2025-05-26T21:34:06.364869,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,666,11.1,3127,3.13
+2025-05-26T21:34:06.683410,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,431,7.18,3160,3.16
+2025-05-26T21:34:07.198201,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2800,46.67,19591,19.59
+2025-05-26T21:34:07.457682,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,841,14.02,6545,6.54
+2025-05-26T21:34:07.746031,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2496,41.6,16860,16.86
+2025-05-26T21:34:07.970915,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,250,4.17,1167,1.17
+2025-05-26T21:34:08.336963,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1682,28.03,12280,12.28
+2025-05-26T21:34:09.071268,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1555,25.92,14557,14.56
+2025-05-26T21:39:10.936194,"Secunderabad Railway Station, Secunderabad, Telangana","Hitech City, Hyderabad, Telangana",Begumpet Rd,2077,34.62,17613,17.61
+2025-05-26T21:39:11.204366,"Gachibowli, Hyderabad, Telangana","Financial District, Hyderabad, Telangana",ISB Rd,699,11.65,5825,5.83
+2025-05-26T21:39:11.490047,"Koti, Hyderabad, Telangana","Begum Bazaar, Hyderabad, Telangana",Malakunta Road,645,10.75,3127,3.13
+2025-05-26T21:39:11.832495,"Jubilee Hills Check Post, Hyderabad, Telangana","Banjara Hills Road No 12, Hyderabad, Telangana",LV Prasad Marg/Road No. 2,435,7.25,3160,3.16
+2025-05-26T21:39:12.434302,"MGBS, Hyderabad, Telangana","Kukatpally Housing Board, Hyderabad, Telangana",NH 65,2771,46.18,19591,19.59
+2025-05-26T21:39:12.749002,"LB Nagar, Hyderabad, Telangana","Dilsukhnagar, Hyderabad, Telangana",Hyderabad - Vijayawada Hwy/Pune - Machilipatnam Hwy,833,13.88,6545,6.54
+2025-05-26T21:39:13.128415,"Miyapur, Hyderabad, Telangana","Ameerpet, Hyderabad, Telangana",NH 65,2519,41.98,16860,16.86
+2025-05-26T21:39:13.415501,"Paradise Circle, Secunderabad, Telangana","MG Road, Secunderabad, Telangana",NH 44,261,4.35,1167,1.17
+2025-05-26T21:39:13.779705,"Secunderabad Railway Station, Malkajgiri, Secunderabad","ECIL X Road, Hyderabad, Telangana",Lalapet - Moula Ali Rd,1658,27.63,12280,12.28
+2025-05-26T21:39:14.434272,"ECIL X Road, Hyderabad, Telangana","Keesara, Hyderabad, Telangana",ECIL - Keesara Rd,1554,25.9,14557,14.56
