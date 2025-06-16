@@ -12,7 +12,7 @@ from streamlit_folium import st_folium
 
 AQICN_API_TOKEN = os.getenv("AQICN_API_TOKEN") 
 AQICN_BASE_URL = "https://api.waqi.info/feed/"
-FASTAPI_URL = "http://localhost:8000/predict_travel_time"
+FASTAPI_URL = "https://smart-city-1h92.onrender.com/predict_travel_time"
 PROCESSED_DATA_PATH = "processed_combined_data_hyd.csv" 
 RAW_TRAFFIC_DATA_PATH = "all_traffic_data_hyd.csv"
 
